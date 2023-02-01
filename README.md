@@ -1,7 +1,6 @@
 # Gold_price_predition
-<ul>Prediction of the gold prices and comparing the values predicted by the models</ul>
+<ul>Prediction of the gold prices and comparing the values predicted by the models wrt actual price</ul>
 <ul>
-<li>The data is evaluated and EDA analyses are been performed, later the cleaned data is trained for model evaluation.</li>
-<li>Regression models are been done and evaluated which analyses the price and further model predcted the values of Gold that are of to the nearest actual values.
-The predictions on this model is accurate to a large extend.</li>
+<li>The evaluation of the data has been completed, and exploratory data analysis (EDA) has been performed. The cleaned data was then used for model training.</li>
+<li>Regression models have been applied and evaluated, which analyze the price of gold. The model accurately predicts the values of gold with a high degree of accuracy.</li>
 </ul>
